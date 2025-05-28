@@ -1,6 +1,6 @@
-<h1 align="center">Quer Namorar Comigo? - Site Pedido de Namoro</h1>
+<h1 align="center">Site Pedido de Namoro</h1>
 
-![pedido_namoro](https://user-images.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/imagem-preview.gif)
+![Cópia de Cópia de ↓ Read More ↓](https://github.com/user-attachments/assets/899076a1-733b-4963-a36c-c785530e7195)
 
 ## :dart: Descrição do Projeto
 
@@ -8,11 +8,11 @@ Este projeto é um site interativo e romântico que faz um pedido de namoro de f
 
 ## :white_check_mark: Funcionalidades do Projeto
 
-- `Botão "Sim"`: Revela uma mensagem de amor acompanhada por uma explosão animada de corações.
-- `Botão "Não"`: Foge da interação, tornando a experiência divertida e dinâmica.
-- `Animação de Corações`: Vários corações normais, grandes, que crescem e desaparecem em posições aleatórias ao redor da tela, sem sobrepor a mensagem.
-- `Design Responsivo`: Funciona bem em dispositivos móveis e desktops.
-- `Interface Limpa e Atraente`: Visual romântico e convidativo.
+- Pedido de namoro com interface interativa
+- Animação com corações ao aceitar o pedido
+- Botão “Não” que se movimenta para evitar o clique
+- Layout responsivo para diferentes dispositivos
+- Design simples e leve, com foco na experiência emocional
 
 ## :sparkles: Demonstração da Aplicação
 
